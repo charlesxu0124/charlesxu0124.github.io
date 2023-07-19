@@ -7,7 +7,7 @@ categories: research
 course: " Berkeley"
 author: "Jianlan Luo*, Charles Xu*, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
 authors: "Jianlan Luo*, Charles Xu*, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
-venue: "Coming Soon"
+venue: "Pre-print"
 paper: "https://arxiv.org/abs/2307.08927"
 video: "https://www.youtube.com/watch?v=ZT51bLYJ9Io"
 code: "https://github.com/tan-liam/CableRouting"
