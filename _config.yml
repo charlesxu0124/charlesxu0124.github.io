@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Liam Tan
+name: Charles Xu
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/dog.png
+# avatar: images/dog.png
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: images/dog.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: liam.tan@berkeley.edu
+  email: xuc@berkeley.edu
   facebook:
   flickr:
-  github: tan-liam
+  github: charlesxu0124
   instagram:
-  linkedin: https://www.linkedin.com/in/liam-t-1a44a3192/
+  linkedin: https://www.linkedin.com/in/charles-xu-b68a9012b/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
