@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Coming Soon"
-date:   2023-03-10 00:00:00 +00:00
+title:  "Multi-Stage Cable Routing through Hierarchical Imitation Learning"
+date:   2023-07-18 00:00:00 +00:00
 image: "/coming soon.jpg"
 categories: research
 course: " Berkeley"
-author: "Coming Soon"
-authors: "Coming Soon"
+author: "Jianlan Luo*, Charles Xu*, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
+authors: "Jianlan Luo*, Charles Xu*, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
 venue: "Coming Soon"
 paper: ""
 video: ""
