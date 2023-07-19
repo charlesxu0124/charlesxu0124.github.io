@@ -5,8 +5,7 @@ date:   2023-07-18 00:00:00 +00:00
 image: "/id_tiny.gif"
 categories: research
 course: " Berkeley"
-author: "Jianlan Luo*, Charles Xu*, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
-authors: "Jianlan Luo*, Charles Xu*, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
+authors: "Jianlan Luo*, **Charles Xu***, Xinyang Geng*, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
 venue: "Pre-print"
 paper: "https://arxiv.org/abs/2307.08927"
 video: "https://www.youtube.com/watch?v=ZT51bLYJ9Io"
