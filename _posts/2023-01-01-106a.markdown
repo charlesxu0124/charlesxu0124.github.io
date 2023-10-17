@@ -1,0 +1,9 @@
+
+---
+layout: post
+title:  "EECS C106A/206A: Introduction to Robotics"
+date:   2021-01-01 00:00:00 +00:00
+image: "/106a.jpg"
+categories: teaching
+---
+Lab Assistant: <a href="https://ucb-ee106.github.io/eecs106a-fa23site/">Fall 2023</a>
