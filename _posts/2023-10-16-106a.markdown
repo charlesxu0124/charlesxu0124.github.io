@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EECS C106A/206A: Introduction to Robotics"
-date:   2021-01-01 00:00:00 +00:00
+date:   2023-10-16 00:00:00 +00:00
 image: "/106a.jpg"
 categories: teaching
 ---
