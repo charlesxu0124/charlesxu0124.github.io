@@ -82,6 +82,9 @@
 <!--              <font color="red">({{post.award}})</font>-->
               <strong>({{post.award}})</strong><br>
               {% endif %}
+              {% if post.website %}
+              <a href="{{post.website}}">website</a> /
+              {% endif %}
               {% if post.paper %}
               <a href="{{post.paper}}">paper</a> /
               {% endif %}
