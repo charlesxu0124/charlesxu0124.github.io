@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning"
-date:   2024-07-18 00:00:00 +00:00
+title: "SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning"
+date:   2023-10-18 00:00:00 +00:00
 image: "/serl.gif"
 categories: research
 authors: "Jianlan Luo*, Zheyuan Hu*, <strong>Charles Xu</strong>, Siri Gadipudi, Archit Sharma, Rehaan Ahmad, Stefan Schaal, Chelsea Finn, Abhishek Gupta, Sergey Levine"
-venue: "Under review, IEEE International Conference on Robotics and Automation (ICRA)"
+venue: "Under review, IEEE International Conference on Robotics and Automation (ICRA) 2024"
 website: "https://serl-robot.github.io/"
 # paper: "https://arxiv.org/abs/2307.08927"
 video: "https://youtu.be/7hoei4Wjno0"

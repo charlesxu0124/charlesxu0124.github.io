@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "FMB: A Functional Manipulation Benchmark for Generalizable Robotic Learning"
-date:   2023-07-18 00:00:00 +00:00
+title: "FMB: A Functional Manipulation Benchmark for Generalizable Robotic Learning"
+date:   2023-10-08 00:00:00 +00:00
 image: "/fmb.gif"
 categories: research
 course: " Berkeley"
 authors: "Jianlan Luo*, <strong>Charles Xu*</strong>, Fangchen Liu, Liam Tan, Zipeng Lin, Jeffrey Wu, Pieter Abbeel, Sergey Levine"
-venue: "Under review, The International Journal of Robotics Research"
+venue: "Under review, The International Journal of Robotics Research, 2023"
 website: "https://functional-manipulation-benchmark.github.io/"
 # paper: "https://arxiv.org/abs/2307.08927"
 video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"
 code: "https://github.com/functional-manipulation-benchmark/ManipulationDataset"
-data: ""https://functional-manipulation-benchmark.github.io/dataset/index.html
+data: "https://functional-manipulation-benchmark.github.io/dataset/index.html"
 ---
 
