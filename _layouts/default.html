@@ -13,41 +13,50 @@
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TC02S23RH2"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+    type="text/css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TC02S23RH2"></script>
 
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-TC02S23RH2');
-</script>
+    gtag('config', 'G-TC02S23RH2');
+  </script>
 
 </head>
 
 
 
 <body>
-  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table
+    style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr style="padding:0px">
             <td style="padding:2.5%;width:60%;vertical-align:middle">
               <h1>
                 Charles Xu
               </h1>
               </p>
-              <p>I am a fourth year undergraduate student at UC Berkeley majoring in Electrical Engineering and Computer Science. I currently conduct research with <a href="https://people.eecs.berkeley.edu/~svlevine/">Prof. Sergey Levine</a> at the <a href="https://rail.eecs.berkeley.edu">Robotic AI & Learning Lab</a>. My research interests are machine learning and robotics for industrial applications.
+              <p>I am a fourth year undergraduate student at UC Berkeley majoring in Electrical Engineering and Computer
+                Science. I currently conduct research with <a href="https://people.eecs.berkeley.edu/~svlevine/">Prof.
+                  Sergey Levine</a> at the <a href="https://rail.eecs.berkeley.edu">Robotic AI & Learning Lab</a>. I've
+                also had the pleasure of working with <a href="https://stefan-schaal.net/">Stefan Schaal</a> at <a
+                  href="https://intrinsic.ai/">Intrinsic</a>, a robotics software and AI company at Alphabet. My
+                research interests lie at the intersection of robotics and machine learning for building robust and
+                generalizable autonomous manipulation systems.
               </p>
               <p style="text-align:center">
                 xuc [at] berkeley [dot] edu &nbsp;/&nbsp;
-                <a href="https://github.com/charlesxu0124">GitHub</a> &nbsp;/&nbsp;
-<!--                <a href="https://scholar.google.com/">Google Scholar</a> &nbsp;/&nbsp;-->
-                <a href="https://www.linkedin.com/in/charles-xu-b68a9012b/"> LinkedIn </a> &nbsp;
-<!--                 <a href="courses"> Coursework </a> -->
+                <a href="https://github.com/charlesxu0124">GitHub</a> &nbsp;
+                <!--                <a href="https://scholar.google.com/">Google Scholar</a> &nbsp;/&nbsp;-->
+                <!-- <a href="https://www.linkedin.com/in/charles-xu-b68a9012b/"> LinkedIn </a> &nbsp; -->
+                <!--                 <a href="courses"> Coursework </a> -->
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
@@ -56,14 +65,16 @@
           </tr>
         </table>
 
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
@@ -79,7 +90,7 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} <br> {% if post.award %}
-<!--              <font color="red">({{post.award}})</font>-->
+              <!--              <font color="red">({{post.award}})</font>-->
               <strong>({{post.award}})</strong><br>
               {% endif %}
               {% if post.website %}
@@ -91,6 +102,9 @@
               {% if post.video %}
               <a href="{{post.video}}">video</a> /
               {% endif %}
+              {% if post.blog %}
+              <a href="{{post.blog}}">blog post</a> /
+              {% endif %}
               {% if post.code %}
               <a href="{{post.code}}">code</a>
               {% endif %}
@@ -99,6 +113,9 @@
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              {% if post.data %}
+              <a href="{{post.data}}">data</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
@@ -111,14 +128,16 @@
         <br>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Teaching</h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
@@ -143,12 +162,14 @@
         <br>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table
+          style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">
               <br>
               <p style="text-align:center;font-size:small;">
-                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's
+                  website</a>
               </p>
             </td>
           </tr>

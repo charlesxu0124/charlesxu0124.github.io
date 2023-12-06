@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
+date:   2024-07-18 00:00:00 +00:00
+image: "/rtx.gif"
+categories: research
+authors: "<strong>Open X-Embodiment Collaboration</strong>"
+venue: "Under review, IEEE International Conference on Robotics and Automation (ICRA)"
+website: "https://robotics-transformer-x.github.io/"
+paper: "https://arxiv.org/abs/2310.08864"
+blogpost: "https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/"
+code: "https://github.com/google-deepmind/open_x_embodiment"
+data: "https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit#gid=0"
+---
+
