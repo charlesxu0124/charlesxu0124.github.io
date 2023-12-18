@@ -7,7 +7,7 @@ categories: research
 authors: "Jianlan Luo*, Zheyuan Hu*, <strong>Charles Xu</strong>, Siri Gadipudi, Archit Sharma, Rehaan Ahmad, Stefan Schaal, Chelsea Finn, Abhishek Gupta, Sergey Levine"
 venue: "Under review, IEEE International Conference on Robotics and Automation (ICRA) 2024"
 website: "https://serl-robot.github.io/"
-# paper: "https://arxiv.org/abs/2307.08927"
+paper: "https://openreview.net/pdf?id=ZZmQgcN7dJ"
 video: "https://youtu.be/7hoei4Wjno0"
 code: "https://github.com/serl-robot/serl"
 ---
