@@ -6,7 +6,7 @@ image: "/octo.jpg"
 categories: research
 authors: "Dibya Ghosh*, Homer Walke*, Karl Pertsch*, Kevin Black*, Oier Mees*, Sudeep Dasari, Joey Hejna, Tobias
 Kreiman, <strong>Charles Xu</strong>, Jianlan Luo, You Liang Tan, Dorsa Sadigh, Chelsea Finn, Sergey Levine"
-venue: "Under review, Robotics: Science and Systems 2024"
+venue: "Robotics: Science and Systems 2024"
 website: "https://octo-models.github.io/"
 paper: "https://octo-models.github.io/paper.pdf"
 code: "https://github.com/octo-models/octo"
