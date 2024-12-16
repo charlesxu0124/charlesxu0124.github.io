@@ -1,0 +1,15 @@
+---
+layout: post
+title: "RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning"
+date:   2024-12-08 00:00:00 +00:00
+image: "/rldg.gif"
+categories: research
+authors: "<strong>Charles Xu</strong>, Qiyang Li, Jianlan Luo, Sergey Levine"
+venue: "arXiv Preprint"
+website: "https://generalist-distillation.github.io/"
+paper: "https://arxiv.org/abs/2412.09858"
+# video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"
+# code: "https://github.com/functional-manipulation-benchmark/ManipulationDataset"
+# data: "https://functional-manipulation-benchmark.github.io/dataset/index.html"
+---
+

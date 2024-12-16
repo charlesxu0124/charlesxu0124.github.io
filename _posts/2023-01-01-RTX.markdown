@@ -6,6 +6,7 @@ image: "/rtx.gif"
 categories: research
 authors: "<strong>Open X-Embodiment Collaboration</strong>"
 venue: "IEEE International Conference on Robotics and Automation (ICRA) 2024"
+award: "ICRA 2024 Best Paper Award"
 website: "https://robotics-transformer-x.github.io/"
 paper: "https://arxiv.org/abs/2310.08864"
 blogpost: "https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/"
