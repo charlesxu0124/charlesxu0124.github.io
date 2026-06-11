@@ -5,7 +5,7 @@ date:   2024-12-08 00:00:00 +00:00
 image: "/rldg.gif"
 categories: research
 authors: "<strong>Charles Xu</strong>, Qiyang Li, Jianlan Luo, Sergey Levine"
-venue: "arXiv Preprint"
+venue: "Robotics: Science and Systems 2025"
 website: "https://generalist-distillation.github.io/"
 paper: "https://arxiv.org/abs/2412.09858"
 # video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"

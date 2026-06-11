@@ -5,7 +5,7 @@ date:   2024-11-08 00:00:00 +00:00
 image: "/hil-serl.gif"
 categories: research
 authors: "Jianlan Luo†, <strong>Charles Xu</strong>†, Jeffrey Wu, Sergey Levine"
-venue: "Under Review, Science Robotics"
+venue: "Science Robotics, 2025"
 website: "https://hil-serl.github.io/"
 paper: "https://arxiv.org/abs/2410.21845"
 # video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"

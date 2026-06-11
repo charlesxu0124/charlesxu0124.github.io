@@ -1,0 +1,14 @@
+---
+layout: post
+title: "RL Token: Bootstrapping Online RL with Vision-Language-Action Models"
+date:   2025-03-19 00:00:00 +00:00
+image: "/rlt.gif"
+categories: research
+authors: "<strong>Charles Xu</strong>, Jost Tobias Springenberg, Michael Equi, Ali Amin, Adnan Esmail, Sergey Levine, Liyiming Ke"
+venue: "arXiv preprint, 2026"
+website: "https://www.pi.website/research/rlt"
+paper: "https://www.pi.website/download/rlt.pdf"
+# video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"
+# code: "https://github.com/functional-manipulation-benchmark/ManipulationDataset"
+# data: "https://functional-manipulation-benchmark.github.io/dataset/index.html"
+---

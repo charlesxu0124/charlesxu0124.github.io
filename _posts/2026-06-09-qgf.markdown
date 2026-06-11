@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning"
+date: 2026-06-09 00:00:00 +00:00
+image: "/qgf.svg"
+categories: research
+tags:
+  - RL
+  - flow policies
+  - offline RL
+authors: "Zhiyuan Zhou, Andy Peng, <strong>Charles Xu</strong>, Qiyang Li, Jost Tobias Springenberg, Kevin Frans, Sergey Levine"
+venue: "arXiv preprint, 2026"
+website: "https://q-guided-flow.github.io/"
+paper: "https://arxiv.org/abs/2606.11087"
+code: "https://github.com/zhouzypaul/qgf"
+---
+
