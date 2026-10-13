@@ -5,8 +5,8 @@ date:   2025-03-19 00:00:00 +00:00
 image: "/rlt.gif"
 categories: research
 authors: "<strong>Charles Xu</strong>, Jost Tobias Springenberg, Michael Equi, Ali Amin, Adnan Esmail, Sergey Levine, Liyiming Ke"
-venue: "Conference on Robot Learning (CoRL), 2026"
-award: "Oral presentation (top 1%)"
+venue: "Conference on Robot Learning (<strong>CoRL</strong>), 2026"
+award: "Oral (top 1%)"
 website: "https://www.pi.website/research/rlt"
 paper: "https://www.pi.website/download/rlt.pdf"
 # video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"

@@ -6,7 +6,7 @@ image: "/fmb.gif"
 categories: research
 course: " Berkeley"
 authors: "Jianlan Luo*, <strong>Charles Xu*</strong>, Fangchen Liu, Liam Tan, Zipeng Lin, Jeffrey Wu, Pieter Abbeel, Sergey Levine"
-venue: "The International Journal of Robotics Research"
+venue: "The International Journal of Robotics Research (<strong>IJRR</strong>)"
 website: "https://functional-manipulation-benchmark.github.io/"
 paper: "https://journals.sagepub.com/doi/10.1177/02783649241276017"
 video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"

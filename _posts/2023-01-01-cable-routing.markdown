@@ -6,7 +6,7 @@ image: "/cable.gif"
 categories: research
 course: " Berkeley"
 authors: "Jianlan Luo*, <strong>Charles Xu*</strong>, Xinyang Geng, Gilbert Feng, Kuan Fang, Liam Tan, Stefan Schaal, Sergey Levine"
-venue: "IEEE Transactions on Robotics, 2024"
+venue: "IEEE Transactions on Robotics (<strong>T-RO</strong>), 2024"
 website: "https://sites.google.com/view/cablerouting/home"
 paper: "https://ieeexplore.ieee.org/document/10388462"
 video: "https://www.youtube.com/watch?v=ZT51bLYJ9Io"

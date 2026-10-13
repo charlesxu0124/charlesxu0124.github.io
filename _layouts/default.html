@@ -77,11 +77,8 @@
                     <br>
                     {{ post.authors }}
                     <br>
-                    <em>{{ post.venue }}</em>
+                    <span>{{ post.venue }}</span>{% if post.award %}, <strong style="color: #c73527;">{{ post.award }}</strong>{% endif %}
                     <br>
-                    {% if post.award %}
-                      <strong style="color: red;">{{ post.award }}</strong><br>
-                    {% endif %}
                     
                     {% assign links = '' %}
                     {% if post.website %}{% capture link %}<a href="{{ post.website }}">website</a>{% endcapture %}{% assign links = links | append: link %}{% endif %}
