@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "π0.7: a Steerable Model with Emergent Capabilities"
+title: "<span class='paper-pi'>π</span>0.7: a Steerable Model with Emergent Capabilities"
 date:   2025-04-16 00:00:00 +00:00
 image: "/pi07.gif"
 categories: research
 authors: "<strong>Physical Intelligence Team</strong>"
-venue: "arXiv preprint, 2026"
+venue: "Conference on Robot Learning (CoRL), 2026"
+award: "Oral presentation (top 1%)"
 website: "https://www.pi.website/blog/pi07"
 paper: "https://www.pi.website/download/pi07.pdf"
 # video: "https://www.youtube.com/watch?v=bkA85LrA-Io&feature=youtu.be"
